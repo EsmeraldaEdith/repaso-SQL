@@ -1,6 +1,6 @@
 \c new_school
-DELETE FROM subjects
-INSERT INTO subjects (name)
+DELETE FROM subjects;
+INSERT INTO subjects(name)
 VALUES ('Html'),
        ('Python'),
        ('Amor porpio'),
